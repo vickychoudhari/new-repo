@@ -9,6 +9,8 @@ $text = "vishal choudhary";
     # code...
  }
  echo "vishal";
+
+ echo "aayush";
 //  $uid[] = $text;
 //  echo "<pre>";
 //  print_r($uid);
